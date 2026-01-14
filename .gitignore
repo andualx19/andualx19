@@ -1,0 +1,16 @@
+# Java
+*.class
+target/
+
+# C++
+*.o
+*.exe
+a.out
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
